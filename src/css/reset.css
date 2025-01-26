@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* cuidado ao criar tags repetidas, ele sempre vai ler a ultima */
+ul{ 
+    list-style: none;       
+}
